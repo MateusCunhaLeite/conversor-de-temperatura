@@ -1,0 +1,16 @@
+
+💡 Funcionalidades
+
+-Converter Celsius para Fahrenheit
+-Converter Fahrenheit para Celsius
+-Encerrar o programa
+
+📋 Como funciona
+
+O programa exibe um menu com três opções:
+
+-Converter Celsius para Fahrenheit
+-Converter Fahrenheit para Celsius
+-Sair do programa
+
+O usuário digita a opção desejada, informa a temperatura, e o resultado da conversão é exibido na tela.
