@@ -14,3 +14,26 @@ O programa exibe um menu com três opções:
 -Sair do programa
 
 O usuário digita a opção desejada, informa a temperatura, e o resultado da conversão é exibido na tela.
+
+🧮 Fórmulas utilizadas
+Celsius para Fahrenheit: (°C × 9/5) + 32
+
+Fahrenheit para Celsius: (°F − 32) ÷ 1.8
+
+▶️ Como executar
+Salve o código em um arquivo chamado, por exemplo, conversor.php
+
+Execute o script no terminal com o seguinte comando:
+
+php funcoes-1.php
+Siga as instruções na tela para realizar as conversões.
+
+🛠️ Requisitos
+PHP instalado na máquina (versão 7.0 ou superior)
+
+Terminal com suporte à leitura de entrada (STDIN)
+
+📝 Observações
+O código usa fgets(STDIN) para ler as entradas do usuário.
+
+O loop while mantém o programa em execução até que a opção 3 (Sair) seja escolhida.
